@@ -16,7 +16,7 @@ public class KilometreHesap {
         else {
             System.out.println("Gidilen yol ücreti: "+gidilenYol);
             System.out.println("Taksi Metra açılış Ücreti 10 tldir");
-            System.out.println("Taksiye en düşük biniş ücreti Minimum 20'dir : "+(taksimetreTutari+metraAcılıs)+"Ödenecek tutar 20 TL");
+            System.out.println("Taksiye en düşük biniş ücreti Minimum 20'dir : "+(taksimetreTutari+metraAcılıs) +"Ödenecek tutar 20 TL");
         }
 
     }
